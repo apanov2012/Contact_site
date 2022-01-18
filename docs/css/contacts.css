@@ -1,0 +1,32 @@
+.contacts {
+    background-color: cadetblue;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    /* text-align: center; */
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 1% 1%;
+}
+h2 {
+    text-align: center;
+}
+.adress, .map {
+    display: inline-block;
+    width: 49%;
+    height: 29vw;
+}
+.map {
+    margin-left: 1%;
+    background-image: url(../images/y_map.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.adress {
+    vertical-align: top;
+}
+p {
+    margin-left: 20px;
+}
