@@ -1,0 +1,569 @@
+/* contactline*/
+
+span {
+    animation-fill-mode: forwards;
+    opacity: 0;
+    --andur: 0.4s;
+    --andel: 0s;
+} 
+
+
+
+@keyframes contactline
+{
+    from
+    {
+        opacity: 0;
+        font-size: 1em;
+    }
+    20%
+    {
+        opacity: 1;
+        font-size: 1.2em;
+    }
+    100%
+    {
+        opacity: 1;
+        font-size: 1em;
+    }
+}
+span:nth-of-type(1) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay: 0;
+}
+span:nth-of-type(2) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay: 0.2s;
+}
+span:nth-of-type(3) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay: 0.4s;
+}
+span:nth-of-type(4) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  0.6s;
+}
+span:nth-of-type(5) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  0.8s;
+}
+span:nth-of-type(6) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  1s;
+}
+span:nth-of-type(7) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  1.2s;
+}
+span:nth-of-type(8) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  1.4s;
+}
+span:nth-of-type(9) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  1.6s;
+}
+span:nth-of-type(10) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  1.8s;
+}
+span:nth-of-type(11) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  2s;
+}
+span:nth-of-type(12) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  2.2s;
+}
+span:nth-of-type(13) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  2.4s;
+}
+span:nth-of-type(14) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  2.6s;
+}
+span:nth-of-type(15) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  2.8s;
+}
+span:nth-of-type(16) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  3s;
+}
+span:nth-of-type(17) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  3.2s;
+}
+span:nth-of-type(18) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  3.4s;
+}
+span:nth-of-type(19) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  3.6s;
+}
+span:nth-of-type(20) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  3.8s;
+}
+span:nth-of-type(21) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  3.8s;
+}
+span:nth-of-type(22) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  4s;
+}
+span:nth-of-type(23) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  4.2s;
+}
+span:nth-of-type(24) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  4.4s;
+}
+span:nth-of-type(25) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  4.6s;
+}
+span:nth-of-type(26) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  4.8s;
+}
+span:nth-of-type(27) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  5s;
+}
+span:nth-of-type(28) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  5.2s;
+}
+span:nth-of-type(29) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  5.4s;
+}
+span:nth-of-type(30) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  5.6s;
+}
+span:nth-of-type(31) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  5.8s;
+}
+span:nth-of-type(32) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  6s;
+}
+span:nth-of-type(33) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  6.2s;
+}
+span:nth-of-type(34) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  6.4s;
+}
+span:nth-of-type(35) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  6.6s;
+}
+span:nth-of-type(36) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  6.8s;
+}
+span:nth-of-type(37) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  7s;
+}
+span:nth-of-type(38) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  7.2s;
+}
+span:nth-of-type(39) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  7.4s;
+}
+span:nth-of-type(40) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  7.4s;
+}
+span:nth-of-type(41) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  7.6s;
+}
+span:nth-of-type(42) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  7.8s;
+}
+span:nth-of-type(43) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  8s;
+}
+span:nth-of-type(44) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  8.2s;
+}
+span:nth-of-type(45) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  8.4s;
+}
+span:nth-of-type(46) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  8.6s;
+}
+span:nth-of-type(47) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  8.8s;
+}
+span:nth-of-type(48) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  9s;
+}
+span:nth-of-type(49) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  9.2s;
+}
+span:nth-of-type(50) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  9.4s;
+}
+span:nth-of-type(51) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  9.6s;
+}
+span:nth-of-type(52) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  9.8s;
+}
+span:nth-of-type(53) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  10s;
+}
+span:nth-of-type(54) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  10.2s;
+}
+span:nth-of-type(55) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  10.4s;
+}
+span:nth-of-type(56) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  10.6s;
+}
+span:nth-of-type(57) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  10.7s;
+}
+span:nth-of-type(58) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  10.8s;
+}
+span:nth-of-type(59) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  11s;
+}
+span:nth-of-type(60) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  11.2s;
+}
+span:nth-of-type(61) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  11.4s;
+}
+span:nth-of-type(62) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  11.6s;
+}
+span:nth-of-type(63) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  11.8s;
+}
+span:nth-of-type(64) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  12s;
+}
+span:nth-of-type(65) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  12.2s;
+}
+span:nth-of-type(66) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  12.4s;
+}
+span:nth-of-type(67) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  12.6s;
+}
+span:nth-of-type(68) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  12.8s;
+}
+span:nth-of-type(69) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  13s;
+}
+span:nth-of-type(70) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  13.2s;
+}
+span:nth-of-type(71) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  13.4s;
+}
+span:nth-of-type(72) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  13.6s;
+}
+span:nth-of-type(73) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  13.8s;
+}
+span:nth-of-type(74) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  14s;
+}
+span:nth-of-type(75) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  14.2s;
+}
+span:nth-of-type(76) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  14.4s;
+}
+span:nth-of-type(77) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  14.6s;
+}
+span:nth-of-type(78) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  14.8s;
+}
+span:nth-of-type(79) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  15s;
+}
+span:nth-of-type(80) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  15.2s;
+}
+span:nth-of-type(81) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  15.4s;
+}
+span:nth-of-type(82) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  15.6s;
+}
+span:nth-of-type(83) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  15.8s;
+}
+span:nth-of-type(84) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  16s;
+}
+span:nth-of-type(85) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  16.2s;
+}
+span:nth-of-type(86) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  16.4s;
+}
+span:nth-of-type(87) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  16.6s;
+}
+span:nth-of-type(88) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  16.8s;
+}
+span:nth-of-type(89) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  17s;
+}
+span:nth-of-type(90) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  17.2s;
+}
+span:nth-of-type(91) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  17.4s;
+}
+span:nth-of-type(92) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  17.6s;
+}
+span:nth-of-type(93) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  17.8s;
+}
+span:nth-of-type(94) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  18s;
+}
+span:nth-of-type(95) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  18.2s;
+}
+span:nth-of-type(96) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  18.4s;
+}
+span:nth-of-type(97) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  18.6s;
+}
+span:nth-of-type(98) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  18.8s;
+}
+span:nth-of-type(99) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  19s;
+}
+span:nth-of-type(100) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  19.2s;
+}
+span:nth-of-type(101) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  19.4s;
+}
+span:nth-of-type(102) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  19.6s;
+}
+span:nth-of-type(103) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  19.8s;
+}
+span:nth-of-type(104) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  20s;
+}
+span:nth-of-type(105) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  20.2s;
+}
+span:nth-of-type(106) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  20.4s;
+}
+span:nth-of-type(107) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  20.6s;
+}
+span:nth-of-type(108) {
+    animation-name: contactline;
+    animation-duration: var(--andur);
+    animation-delay:  20.8s;
+}
